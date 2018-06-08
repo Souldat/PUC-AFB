@@ -1,0 +1,16 @@
+c:\users\weston.l.smith\documents\visual studio 2015\Projects\PUC AFB Config\PUC AFB Config\bin\Debug\PUC AFB Config.exe.config
+c:\users\weston.l.smith\documents\visual studio 2015\Projects\PUC AFB Config\PUC AFB Config\bin\Debug\PUC AFB Config.exe
+c:\users\weston.l.smith\documents\visual studio 2015\Projects\PUC AFB Config\PUC AFB Config\bin\Debug\PUC AFB Config.pdb
+c:\users\weston.l.smith\documents\visual studio 2015\Projects\PUC AFB Config\PUC AFB Config\obj\Debug\PUC_AFB_Config.PUCAFBConfig.resources
+c:\users\weston.l.smith\documents\visual studio 2015\Projects\PUC AFB Config\PUC AFB Config\obj\Debug\PUC_AFB_Config.Properties.Resources.resources
+c:\users\weston.l.smith\documents\visual studio 2015\Projects\PUC AFB Config\PUC AFB Config\obj\Debug\PUC AFB Config.csproj.GenerateResource.Cache
+c:\users\weston.l.smith\documents\visual studio 2015\Projects\PUC AFB Config\PUC AFB Config\obj\Debug\PUC AFB Config.exe
+c:\users\weston.l.smith\documents\visual studio 2015\Projects\PUC AFB Config\PUC AFB Config\obj\Debug\PUC AFB Config.pdb
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB Config\PUC AFB Config\bin\Debug\PUC AFB Config.exe.config
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB Config\PUC AFB Config\bin\Debug\PUC AFB Config.exe
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB Config\PUC AFB Config\bin\Debug\PUC AFB Config.pdb
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB Config\PUC AFB Config\obj\Debug\PUC_AFB_Config.PUCAFBConfig.resources
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB Config\PUC AFB Config\obj\Debug\PUC_AFB_Config.Properties.Resources.resources
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB Config\PUC AFB Config\obj\Debug\PUC AFB Config.csproj.GenerateResource.Cache
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB Config\PUC AFB Config\obj\Debug\PUC AFB Config.exe
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB Config\PUC AFB Config\obj\Debug\PUC AFB Config.pdb

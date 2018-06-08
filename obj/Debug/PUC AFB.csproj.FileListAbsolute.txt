@@ -1,0 +1,60 @@
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\Hindsight-G2_StorageBackup.exe.config
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\Hindsight-G2_StorageBackup.exe
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\Hindsight-G2_StorageBackup.pdb
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\log4net.dll
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\Microsoft.CSharp.dll
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\System.ComponentModel.Composition.Registration.dll
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\System.Configuration.dll
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\System.Configuration.Install.dll
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\System.dll
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\System.Security.dll
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\System.ServiceProcess.dll
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\System.Xml.dll
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\System.Xml.Linq.dll
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\bin\Debug\log4net.xml
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\obj\Debug\Hindsight_G2_StorageBackup.ProjectInstaller.resources
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\obj\Debug\PUC AFB.csproj.GenerateResource.Cache
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\obj\Debug\Hindsight-G2_StorageBackup.exe
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\Hindsight-G2 StorageBackup\Hindsight-G2 StorageBackup\obj\Debug\Hindsight-G2_StorageBackup.pdb
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\PUC AFB\PUC AFB\bin\Debug\Hindsight-G2_StorageBackup.exe.config
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\PUC AFB\PUC AFB\obj\Debug\Hindsight-G2_StorageBackup.exe
+C:\Users\weston.l.smith\Desktop\Solutions\Storage Backup Build Testing\PUC AFB\PUC AFB\obj\Debug\Hindsight-G2_StorageBackup.pdb
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\bin\Debug\PUC_AFB.exe.config
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\bin\Debug\PUC_AFB.exe
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\bin\Debug\PUC_AFB.pdb
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\bin\Debug\Microsoft.CSharp.dll
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\bin\Debug\System.ComponentModel.Composition.Registration.dll
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\bin\Debug\System.Configuration.dll
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\bin\Debug\System.Configuration.Install.dll
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\bin\Debug\System.dll
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\bin\Debug\System.Security.dll
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\bin\Debug\System.ServiceProcess.dll
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\bin\Debug\System.Xml.dll
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\bin\Debug\System.Xml.Linq.dll
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\obj\Debug\PUC AFB.csproj.GenerateResource.Cache
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\obj\Debug\PUC_AFB.exe
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\obj\Debug\PUC_AFB.pdb
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\obj\Debug\PUC_AFB.ProjectInstaller.resources
+C:\Users\weston.l.smith\Desktop\Solutions\PUC AFB\obj\Debug\PUC AFB.csprojResolveAssemblyReference.cache
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\bin\Debug\PUC_AFB.exe.config
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\obj\Debug\PUC_AFB.exe
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\obj\Debug\PUC_AFB.pdb
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\bin\Debug\PUC_AFB.exe
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\bin\Debug\PUC_AFB.pdb
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\bin\Debug\Microsoft.CSharp.dll
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\bin\Debug\System.ComponentModel.Composition.Registration.dll
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\bin\Debug\System.Configuration.dll
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\bin\Debug\System.Configuration.Install.dll
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\bin\Debug\System.dll
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\bin\Debug\System.Security.dll
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\bin\Debug\System.ServiceProcess.dll
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\bin\Debug\System.Xml.dll
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\bin\Debug\System.Xml.Linq.dll
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\obj\Debug\PUC_AFB.ProjectInstaller.resources
+C:\Users\weston.l.smith\Desktop\Development\PUC AFB\obj\Debug\PUC AFB.csproj.GenerateResource.Cache
